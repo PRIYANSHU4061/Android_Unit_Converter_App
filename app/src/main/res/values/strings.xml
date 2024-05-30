@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="Text">Lets Convert it</string>
+    <string name="Text1">Choose What you want to Convert</string>
+    <string name="Text2">Weight</string>
+    <string name="Text3">Liters</string>
+    <string name="Text4">Length</string>
+    <string name="Text5">Temperature</string>
+    <string name="Text6">Choose What you want to Convert</string>
+</resources>
